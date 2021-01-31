@@ -1,4 +1,4 @@
-module github.com/kuangshp/user
+module github.com/kuangshp/user_srv
 
 go 1.14
 

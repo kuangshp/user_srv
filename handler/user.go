@@ -3,7 +3,7 @@ package handler
 import (
 	"context"
 	"fmt"
-	"github.com/kuangshp/user/proto/user"
+	"github.com/kuangshp/user_srv/proto/user"
 )
 
 type User struct{}

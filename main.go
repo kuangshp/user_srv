@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/kuangshp/user/handler"
-	"github.com/kuangshp/user/proto/user"
+	"github.com/kuangshp/user_srv/handler"
+	"github.com/kuangshp/user_srv/proto/user"
 	"github.com/micro/go-micro/v2"
 	"github.com/micro/go-micro/v2/logger"
 	"github.com/micro/go-micro/v2/registry"
